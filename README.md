@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinNgouffo
 - 👀 I’m interested in the energy transition
 - 🌱 I’m currently learning Smart Grids 
-- 💞️ I’m looking to collaborate on Machine learning applied on electrical grids.
+- 💞️ I’m looking to collaborate on Machine learning and Artificial Intelligence applied on electrical grids.
 - 📫 How to reach me +32 466 08 60 43
 - email address : kevinngouffo.be@gmail.com
 
